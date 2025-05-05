@@ -228,3 +228,6 @@
 - [IKS project on CORDIS](https://cordis.europa.eu/project/id/231527)  
 - [Lawyer LLaMA GitHub repository](https://github.com/AndrewZhe/lawyer-llama)  
 - [DISC-LawLLM GitHub repository](https://github.com/FudanDISC/DISC-LawLLM)
+
+
+\( \frac{\text{Отвеченные CQ}}{\text{Все CQ}} \)

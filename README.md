@@ -231,5 +231,3 @@
 - [Lawyer LLaMA GitHub repository](https://github.com/AndrewZhe/lawyer-llama)  
 - [DISC-LawLLM GitHub repository](https://github.com/FudanDISC/DISC-LawLLM)
 
-
-\( \frac{\text{Отвеченные CQ}}{\text{Все CQ}} \)
